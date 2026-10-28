@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salman-almuhaysin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:almuhaysins@outlook.sa"><img src="https://img.shields.io/badge/Email-almuhaysins%40outlook.sa-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+  <a href="mailto:almuhaysins@gmail.com"><img src="https://img.shields.io/badge/Email-almuhaysins%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://x.com/Snma7_"><img src="https://img.shields.io/badge/X-@Snma7__-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
 </p>
 
