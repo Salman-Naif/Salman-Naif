@@ -94,7 +94,8 @@ I'm interested in software development and artificial intelligence, especially *
 
 | Certification | Issuer | Date |
 |---------------|--------|------|
-| AWS Certified AI Practitioner | Saudi Digital Academy | Sep 2026 |
+| AI-Powered Risk Analysis | Saudi Council of Engineers | Oct 2026 |
+| AWS Certified AI Practitioner | Amazon Web Services (AWS) | Sep 2026 |
 | Data Analysis & Visualization with Excel | Tuwaiq Academy | Apr 2026 |
 | Oracle APEX Cloud Developer Certified Professional | Oracle University | Oct 2025 |
 | Oracle Cloud Infrastructure Certified Generative AI Professional | Oracle University | Oct 2025 |
