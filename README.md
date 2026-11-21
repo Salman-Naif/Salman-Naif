@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/salman-almuhaysin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:almuhaysins@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://drive.google.com/file/d/1ksx2HHBdqmKYhG_KfxWJ0BKyMhBV-a3A/view"><img src="https://img.shields.io/badge/Download_CV-2F81F7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV"></a>
-  <a href="https://x.com/Snma7_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://x.com/almuhaysins"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 ---
